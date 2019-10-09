@@ -9,9 +9,10 @@ package cse360assign2;
  * Assignment 2
  * 
  * @since 1.0
- * @version 2.0
+ * @version 2.1
  * 
- * @param total The total after calculation
+ * @param total The int total after calculations on an AddingMachine instance
+ * @param history The String history of calculations on an AddingMachine instance
  *
  */
 
